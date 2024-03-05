@@ -1,6 +1,8 @@
 # mmorpggriditems
 Cyberpunk Flexbox, a web project using the Grid Layout principle, HTML, SASS, and Javascript. Designed for a 15" laptop monitor screen and not responsive.
 
+Files are located @: https://linktr.ee/jeromespavilion (Project is too big to be uploaded in Github)
+
 Original Design Files from Freepik & DALL-E3 AI Art Generator.
 
 ![Screenshot 2024-03-05 182909](https://github.com/pavilionjeromeuses/mmorpggriditems/assets/155218546/b2effe62-8703-4efd-a2dc-89da9ab6c0ed)
